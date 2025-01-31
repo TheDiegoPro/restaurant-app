@@ -1,0 +1,359 @@
+[{
+  "_id": {
+    "$oid": "679d03737a0a020785d892c1"
+  },
+  "query": "dd",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:03.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03757a0a020785d892c4"
+  },
+  "query": "dda",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:05.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03777a0a020785d892c7"
+  },
+  "query": "dd",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:07.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03777a0a020785d892ca"
+  },
+  "query": "d",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:07.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d0383f261ab932b74104e"
+  },
+  "query": "t",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:19.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d0384f261ab932b741051"
+  },
+  "query": "te",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:20.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d0386f261ab932b741054"
+  },
+  "query": "t",
+  "timestamp": {
+    "$date": "2025-01-31T17:08:22.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03acf261ab932b74105a"
+  },
+  "query": "t",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:00.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b74105f"
+  },
+  "query": "p",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b741061"
+  },
+  "query": "pr",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b741064"
+  },
+  "query": "pru",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b741067"
+  },
+  "query": "prue",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b74106a"
+  },
+  "query": "prueb",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03b8f261ab932b74106d"
+  },
+  "query": "prueba",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:12.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03bff261ab932b741071"
+  },
+  "query": "prueba ",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:19.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d03bff261ab932b741073"
+  },
+  "query": "prueba 2",
+  "timestamp": {
+    "$date": "2025-01-31T17:09:19.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d04c1f261ab932b74107d"
+  },
+  "query": "test",
+  "timestamp": {
+    "$date": "2025-01-31T17:13:37.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d04caf261ab932b741081"
+  },
+  "query": "ushi",
+  "timestamp": {
+    "$date": "2025-01-31T17:13:46.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d05d2dd848bc2615a9805"
+  },
+  "query": "test",
+  "timestamp": {
+    "$date": "2025-01-31T17:18:10.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d14a2341b110ebb560e03"
+  },
+  "query": "test",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T18:21:22.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d14b3341b110ebb560e09"
+  },
+  "query": "prueba 123",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T18:21:39.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d14e9341b110ebb560e1b"
+  },
+  "query": "prueba1234567",
+  "userId": {
+    "$oid": "679d14e1341b110ebb560e14"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T18:22:33.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d1913341b110ebb560e32"
+  },
+  "query": "prueba 2",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T18:40:19.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d1a4f341b110ebb560e40"
+  },
+  "query": "sushi",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T18:45:35.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2d90af255a1a4f33d3f8"
+  },
+  "query": "test",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:07:44.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2d97af255a1a4f33d3fc"
+  },
+  "query": "prueba",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:07:51.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2dabaf255a1a4f33d400"
+  },
+  "query": "sushi",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:08:11.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2db2af255a1a4f33d404"
+  },
+  "query": "india",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:08:18.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2df5f7b2a68e27ea4dcb"
+  },
+  "query": "e",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:09:25.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d2dfbf7b2a68e27ea4dcf"
+  },
+  "query": "sushi",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:09:31.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d34645aeb1a7985e74472"
+  },
+  "query": "prueb123",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:36:52.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "679d37e305e89cfdc2c71054"
+  },
+  "query": "prueba1234",
+  "userId": {
+    "$oid": "679afaf4530ce44f9dfee405"
+  },
+  "timestamp": {
+    "$date": "2025-01-31T20:51:47.900Z"
+  },
+  "__v": 0
+}]

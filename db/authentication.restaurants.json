@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "679cdde0f8fae920e13de090"
+  },
+  "nombre": "Sushi Express",
+  "direccion": "Carrera 45, Bogotá, Colombia",
+  "tipo_comida": "Japonesa"
+},
+{
+  "_id": {
+    "$oid": "679cdde0f8fae920e13de091"
+  },
+  "nombre": "Pizzería Napoli",
+  "direccion": "Av. Libertador 101, Caracas, Venezuela",
+  "tipo_comida": "Italiana"
+},
+{
+  "_id": {
+    "$oid": "679cdde0f8fae920e13de092"
+  },
+  "nombre": "Tacos El Rey",
+  "direccion": "Calle Reforma, CDMX, México",
+  "tipo_comida": "Mexicana"
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de098"
+  },
+  "nombre": "El Sabor Criollo",
+  "direccion": "Calle 10 #45-23, Medellín",
+  "tipo_comida": [
+    "Colombiana",
+    "Casera"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de099"
+  },
+  "nombre": "Pasta & Pizza Express",
+  "direccion": "Carrera 50 #32-10, Bogotá",
+  "tipo_comida": [
+    "Italiana",
+    "Pizza",
+    "Pasta"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09a"
+  },
+  "nombre": "Sushi House",
+  "direccion": "Avenida Siempre Viva #123, Cali",
+  "tipo_comida": [
+    "Japonesa",
+    "Sushi"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09b"
+  },
+  "nombre": "Parrilla Argentina",
+  "direccion": "Cra 70 #25A-15, Barranquilla",
+  "tipo_comida": [
+    "Argentina",
+    "Parrilla",
+    "Carnes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09c"
+  },
+  "nombre": "La Taquería",
+  "direccion": "Calle 12 #22-56, Medellín",
+  "tipo_comida": [
+    "Mexicana",
+    "Tacos",
+    "Burritos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09d"
+  },
+  "nombre": "Veggie Delights",
+  "direccion": "Carrera 33 #45-67, Bucaramanga",
+  "tipo_comida": [
+    "Vegetariana",
+    "Saludable"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09e"
+  },
+  "nombre": "Mariscos del Pacífico",
+  "direccion": "Avenida del Mar #5-89, Cartagena",
+  "tipo_comida": [
+    "Mariscos",
+    "Pescados"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de09f"
+  },
+  "nombre": "Bistro Francés",
+  "direccion": "Calle 80 #12-45, Bogotá",
+  "tipo_comida": [
+    "Francesa",
+    "Gourmet"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de0a0"
+  },
+  "nombre": "Café & Postres",
+  "direccion": "Carrera 25 #36-78, Medellín",
+  "tipo_comida": [
+    "Café",
+    "Postres"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679ce929f8fae920e13de0a1"
+  },
+  "nombre": "Wok Asiático",
+  "direccion": "Avenida Principal #101, Cali",
+  "tipo_comida": [
+    "China",
+    "Wok",
+    "Comida rápida"
+  ]
+}]
